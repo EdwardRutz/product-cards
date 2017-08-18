@@ -1,0 +1,78 @@
+/***********  BASE STYLES  ***************/
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+	line-height: 1;
+	color: 000; 
+}
+
+p {
+	font-size: 0.7em;
+	margin-top: 0.2em;
+	margin-bottom: 0em;
+	text-align: justify;
+}
+
+h1 {
+	font-size: 1.5em;
+	text-align: center;
+}
+h2 {
+	line-height: 1.5em;
+	font-size: 1em;
+	border-style: dotted;
+	border-color: #d3d3d3; /*light gray*/
+	border-width: 1px;
+	text-align: center;
+}
+h3 {
+	line-height: 0.5em;
+	font-size: 1em;
+}
+a {
+
+}
+li {
+	list-style: none;
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+
+
+/***********  SECTIONS  ***************/
+article	{
+	max-width: 30%;
+	max-height: 600px;
+	border-style: solid;
+	border-color: lightblue;
+	border-width: 1px;
+	padding: 10px;
+	margin: 25px 15px;
+}
+
+/***********  PAGE: HOME  ***************/
+img {
+	margin: auto auto;
+	display: block;
+}
+
+#availablity {
+	background-color: gray;
+	color: yellow;
+	line-height: 1em;
+}
+
+
+/***********  COLUMNS  ***************/
+
+
+.column-left{ float: left; width: 33%; }
+.column-right{ float: right; width: 33%; }
+.column-center{ display: inline-block; width: 33%; }
+
+
+
