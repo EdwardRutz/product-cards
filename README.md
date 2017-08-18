@@ -1,11 +1,11 @@
 #README
 ------------------------
-# The Static Web HTML + CSS
+## [X] The Static Web HTML + CSS
 
 All of your work should be on a branch, NOT on master. To do this, type:
 
-- [ ] When your work is complete, push up the branch (`git push origin exercise`) and 
-	- [ ] submit the pull request on Github.
+- [X] When your work is complete, push up the branch (`git push origin exercise`) and 
+	- [X] submit the pull request on Github.
 
 ## Requirements
 
@@ -39,16 +39,21 @@ Your task is to build a grid of cards for a company's products. Here are the req
 
 ### Additional style requirements
 
-- [ ] The entire card has a solid 1px border that is `lightblue`.
-- [ ] The card title has a dotted 1px border that is `lightgray`.
-- [ ] The title and product image are centered.
-- [ ] Notice that the text for the description in the image is justified.
-- [ ] The text for the product specification details and pricing details is bold.
-- [ ] The availability element extends the full width of the card, with a dark grey background and yellow text.
+- [X] The entire card has a solid 1px border that is `lightblue`.
+- [X] The card title has a dotted 1px border that is `lightgray`.
+- [X] The title and product image are centered.
+- [X] Notice that the text for the description in the image is justified.
+- [X] The text for the product specification details and pricing details is bold.
+- [X] The availability element extends the full width of the card, with a dark grey background and yellow text.
 
 ### Visual example
 
 Here's an image that shows how the cards should appear.
 
 [Static Web Product Cards Example](https://github.com/nashville-software-school/front-end-milestones/blob/master/1-the-static-web/exercises/SW_HTML_CSS_exercise.png)
+
+
+### Sources:
+- [MDN: Block Level Elements:](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
+- [W3Schools: Blocks](https://www.w3schools.com/htmL/html_blocks.asp)
 
